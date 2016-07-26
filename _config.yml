@@ -1,26 +1,21 @@
+
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://aileen365.github.io/hyde/
+title:            Test
+tagline:          'Test'
+description:      'Test'
+url:              aileen365.github.io/hyde
 baseurl:          /hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
+  name:           'Test'
+  url:            https://twitter.com/test
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/aileen365/hyde

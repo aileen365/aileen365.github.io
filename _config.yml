@@ -4,14 +4,14 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Wolfie
 tagline:          'Hello Buddy'
 description:      'I am the fantastic <a href="http://jekyllrb.com" target="_blank">Wolfie</a> who is incredibly <a href="https://twitter.com/mdo" target="_blank">awesome</a>.'
-#url:              aileen365.github.io/wolfie2
-baseurl:          /wolfie2/
+#url:              aileen365.github.io/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/aileen365/wolfie2
+  repo:           https://github.com/aileen365/

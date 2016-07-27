@@ -11,7 +11,7 @@ relative_permalinks: true
 title:            Wolfie
 tagline:          'Hello Buddy'
 description:      'I am the fantastic <a href="http://jekyllrb.com" target="_blank">Wolfie</a> who is incredibly <a href="https://twitter.com/mdo" target="_blank">awesome</a>.'
-#url:              aileen365.github.io
+#url:             aileen365.github.io
 baseurl:          /
 
 author:

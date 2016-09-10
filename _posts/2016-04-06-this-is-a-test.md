@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THis is a test markdown
+title: This is a test
 ---
 
 #Name: Weiling Xi
